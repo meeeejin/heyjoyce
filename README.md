@@ -4,4 +4,5 @@
 
 |   Title   |   Materials    | 
 | :-------: | :------------: |
-|[코딩으로 세상 이해하기 #1](https://heyjoyce.com/product/190723_coding/)| [바로 가기](mini.meet/coding-minimeet-1/) |
+|[코딩으로 세상 이해하기 #1](https://heyjoyce.com/product/190723_coding)| [바로 가기](mini.meet/coding-minimeet-1/) |
+|[코딩으로 세상 이해하기 #2](https://heyjoyce.com/product/190730_coding)| [바로 가기](mini.meet/coding-minimeet-2/) |
