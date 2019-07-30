@@ -4,6 +4,5 @@
 
 - [미니밋 내용](https://heyjoyce.com/product/190730_coding)
 - [환경설정 가이드](http://bit.ly/heyjoyceXcoding-2-setup-guide)
-- [실습용 소스 코드](automate-tedious-tasks-with-python.ipynb)
+- [소스 코드](automate-tedious-tasks-with-python.ipynb)
   - [예제 엑셀 파일](example.xlsx)
-- [최종 소스 코드](): 미니밋 후 업로드 예정
